@@ -1,2 +1,10 @@
-# leetcode-practice
-My LeetCode practice solutions and notes
+# LeetCode Practice
+
+我的LeetCode刷题记录。
+
+## 进度
+- 累计完成: 0题
+- 目标: 大二下结束前 50题
+
+## 笔记
+按解题模式分类整理。
