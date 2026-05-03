@@ -32,3 +32,15 @@ class Solution(object):
                 nums[slow] = nums[fast]
                 slow += 1
         return slow
+
+#双向解法(对撞双指针)
+class Solution(object):
+    def removeElement(self, nums, val):
+        left, right = 0, len(nums) - 1
+        while left <= right:
+            if nums[left] == val:
+                nums[left] = nums[right]
+                right -= 1
+            else:
+                left += 1
+        return left
