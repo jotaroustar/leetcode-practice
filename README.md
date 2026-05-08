@@ -3,7 +3,7 @@
 我的LeetCode刷题记录。
 
 ## 进度
-- 累计完成: 10题
+- 累计完成: 12题
 - 目标: 大二下结束前 50题
 
 ## 笔记
@@ -11,6 +11,7 @@
 
 ## 已解题目
 - [x] 001 - Two Sum (Easy) - 哈希表
+- [x] 003 - Longest Substring Without Repeating Characters (Medium) - 滑动窗口
 - [x] 009 - Palindrome Number (Easy) - 字符串
 - [x] 026 - Remove Duplicates from Sorted Array (Easy) - 双指针
 - [x] 027 - Remove Element (Easy) - 双指针
@@ -18,6 +19,7 @@
 - [x] 035 - Search Insert Position (Easy) - 二分查找
 - [x] 066 - Plus One (Easy) - 数组模拟
 - [x] 136 - Single Number (Easy) - 位运算
+- [x] 209 - Minimum Size Subarray Sum (Medium) - 滑动窗口
 - [x] 283 - Move Zeroes (Easy) - 双指针
 - [x] 344 - Reverse String (Easy) - 双指针
 
@@ -28,3 +30,4 @@
 - 字符串处理(切片/匹配)
 - 位运算(异或)
 - 二分查找(有序数组O(log n))
+- 滑动窗口(最短/最长子数组)
