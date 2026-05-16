@@ -1,6 +1,6 @@
 # LeetCode 028 - Find the Index of the First Occurrence in a String
 # 难度: Easy
-# 提交日期: 2026-05-03
+# 提交日期: 2026-05-06
 # 解法: 暴力匹配 / Python内置方法
 # 时间复杂度: O(n*m) - n=haystack长度, m=needle长度
 # 空间复杂度: O(m) - 切片创建新字符串
