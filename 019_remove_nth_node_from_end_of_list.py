@@ -1,6 +1,6 @@
 # ============================================================
 # LeetCode #19 - Remove Nth Node From End of List
-# 日期：2026-05-16
+# 日期：2026-05-15
 # 难度：Medium
 # 题目：https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 # ============================================================
