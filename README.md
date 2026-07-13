@@ -1,10 +1,10 @@
 # LeetCode 练习题
 
-我的 LeetCode 刷题记录，目标：备战日本 IT 企业（Mercari / LINE Yahoo / PayPay 等）技术面试。
+我的 LeetCode 刷题记录，目标：备战日本 IT 企业技术面试。
 
 ## 详细资料
 
-- 累计完成：28 题。
+- 累计完成：29 题。
 - 目标：大三结束前 200 题，覆盖日本 IT 面试常考专题
 - 语言：Python
 
@@ -20,8 +20,9 @@
 | 滑动窗口 | ✅ | #003 #209 #438 |
 | 链表 | ✅ | #019 #021 #141 #142 #206 |
 | 树 / 递归（DFS） | ✅ | #100 #101 #104 #110 #226 #235 #543 #572 |
+| 模拟 | ✅ | #066 |
 | BFS / 层序遍历 | 🔄 进行中 | #102 #199 |
-| 栈 / 队列 | ⏳ 未开始 | — |
+| 栈 / 队列 | 🔄 进行中 | #020 |
 | 动态规划 | ⏳ 未开始 | — |
 | 贪心 | ⏳ 未开始 | — |
 
@@ -33,6 +34,7 @@
 | 003 | Longest Substring Without Repeating Characters | 中等 | 滑动窗口 |
 | 009 | Palindrome Number | 简单 | 字符串 |
 | 019 | Remove Nth Node From End of List | 中等 | 链表 |
+| 020 | Valid Parentheses | 简单 | 栈 / 队列 |
 | 021 | Merge Two Sorted Lists | 简单 | 链表 |
 | 026 | Remove Duplicates from Sorted Array | 简单 | 双指针 |
 | 027 | Remove Element | 简单 | 双指针 |
@@ -71,6 +73,7 @@
 - 递归（树的深度/翻转/对称/平衡/直径，DFS后序/前序）
 - 多层递归（子树判断，复用 isSameTree）
 - BFS（层序遍历，deque + len(queue) 固定层数）
+- 栈（后进先出，基于三元表达式/占位符的防御性安全弹栈）
 
 ## 笔记
 
